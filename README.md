@@ -21,11 +21,7 @@
   Advanced **Neural Network Architectures**, **MLOps**, and **Edge AI**.  
 
 - 💬 Ask me about:  
-  Deep Learning, Django, AI-based web projects, and content creation workflows.  
-
-- ⚡ Fun fact:  
-  I turn data and creativity into stories — coding by day, editing reels by night!  
-
+  Deep Learning, AI-based web projects, and content creation workflows.  
 ---
 
 ## 🛠️ Tech Stack  
